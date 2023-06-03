@@ -1,4 +1,5 @@
 #AutoGreetings
+
 In this project, we address the challenge of remembering and sending timely birthday wishes to a large network of individuals. Using the avilable technologies, we have developed a system that generates and sends messages on their behalf.
 
 Auto-greetings is an innovative web application designed to automate the process of sending birthday wishes to friends, family, and colleagues. With the aim of making birthdays more special and hassle-free, our platform harnesses the power of automation..
